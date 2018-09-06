@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oranienbaum');
+
+.entrypagebody{
+	display: flex;
+    flex-direction: column;
+	height: 95vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.counterButton{
+	transition: all 0.6s;
+	font-family: 'Oranienbaum', serif;
+	font-size: 30px;
+	background-color: black;
+	border-color: black;
+	border-style: solid;
+	color: white;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+.counterButton:hover{
+	opacity: 1;
+    top: 0px;
+    transition: all 1s;
+	background-color: orange;
+	border-color: black;
+    color: black;
+    cursor: pointer;
+}
+
+.counter{
+	font-family: 'Oranienbaum';
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.btnClickedCounter{
+	font-family: 'Oranienbaum';
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.Dep1{
+	width: 8px;
+	height: 8px;
+	background-color: red;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.Dep2{
+	width: 8px;
+	height: 8px;
+	background-color: red;
+	margin-left: 150px;
+	margin-top: 150px;
+}
