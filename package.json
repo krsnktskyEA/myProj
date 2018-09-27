@@ -1,7 +1,7 @@
 {
-  "name": "newapp",
+  "name": "app",
   "version": "1.0.0",
-  "description": "myfirstapp",
+  "description": "app",
   "main": "index.js",
   "homepage": "https://krasnokutskiyea.github.io/myProj",
   "scripts": {
